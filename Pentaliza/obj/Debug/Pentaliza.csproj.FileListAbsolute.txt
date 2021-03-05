@@ -1,0 +1,28 @@
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\bin\Debug\Pentaliza.exe.config
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\bin\Debug\Pentaliza.exe
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\bin\Debug\Pentaliza.pdb
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\obj\Debug\Pentaliza.csprojResolveAssemblyReference.cache
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\obj\Debug\Pentaliza.Form1.resources
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\obj\Debug\Pentaliza.Properties.Resources.resources
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\obj\Debug\Pentaliza.csproj.GenerateResource.Cache
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\obj\Debug\Pentaliza.exe
+c:\users\giorgos\documents\visual studio 2013\Projects\Pentaliza\Pentaliza\obj\Debug\Pentaliza.pdb
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\bin\Debug\Pentaliza.exe.config
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.exe
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.pdb
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\bin\Debug\Pentaliza.exe
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\bin\Debug\Pentaliza.pdb
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.csprojResolveAssemblyReference.cache
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.Form1.resources
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.Properties.Resources.resources
+C:\Users\Giorgos\AKOSH\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.csproj.GenerateResource.Cache
+J:\Giorgos\C#\Pentaliza\Pentaliza\bin\Debug\Pentaliza.exe.config
+J:\Giorgos\C#\Pentaliza\Pentaliza\bin\Debug\Pentaliza.exe
+J:\Giorgos\C#\Pentaliza\Pentaliza\bin\Debug\Pentaliza.pdb
+J:\Giorgos\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.csprojAssemblyReference.cache
+J:\Giorgos\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.Form1.resources
+J:\Giorgos\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.Properties.Resources.resources
+J:\Giorgos\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.csproj.GenerateResource.cache
+J:\Giorgos\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.csproj.CoreCompileInputs.cache
+J:\Giorgos\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.exe
+J:\Giorgos\C#\Pentaliza\Pentaliza\obj\Debug\Pentaliza.pdb
